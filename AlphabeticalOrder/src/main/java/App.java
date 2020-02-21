@@ -24,7 +24,7 @@ public class App {
             System.out.println("That's not bad "+userInputLastName+".");
         }else if(index >= 16 && index >= 7){
             System.out.println("Looks like a bit of a wait "+userInputLastName+".");
-        }else if(index >= 7 && index <= 1){
+        }else if(index >= 7 && index >= 1){
             System.out.println("It's gonna be a while "+userInputLastName+".");
         }else{
             System.out.println("Not going anywhere for a while? "+userInputLastName+".");
