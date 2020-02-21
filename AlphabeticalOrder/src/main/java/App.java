@@ -23,7 +23,7 @@ public class App {
         }else if(index <= 23 && index >= 16){
             System.out.println("That's not bad, "+userInputLastName+".");
         }else if(index <= 16 && index >= 7){
-            System.out.println("Looks like a bit of a wait "+userInputLastName+".");
+            System.out.println("Looks like a bit of a wait, "+userInputLastName+".");
         }else if(index <= 7 && index >= 1){
             System.out.println("It's gonna be a while "+userInputLastName+".");
         }else{
