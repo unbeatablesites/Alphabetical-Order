@@ -29,9 +29,6 @@ public class App {
         }else{
             System.out.println("Not going anywhere for a while? "+userInputLastName+".");
         }
-
-            System.out.println(index);
-
     }
 
 }
